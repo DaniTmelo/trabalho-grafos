@@ -246,7 +246,7 @@ Este projeto foi desenvolvido para fins acadêmicos como parte da disciplina de 
 
 ## 🎓 Agradecimentos
 
-- Prof. Lucas Goulart Silva e Otacilio José Pereira pela orientação e material de apoio
+- Prof. Lucas Goulart Silva e Otacilio José Pereira pela orientação e material de apoio.
 - Colegas de turma pelas discussões e insights
 
 ---
