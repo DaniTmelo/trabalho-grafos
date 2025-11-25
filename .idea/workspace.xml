@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a429f04-4902-4748-8195-1f319650149e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrabalhoGrafos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/RELATORIO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrizes/matrix_16x16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrizes/matrix_32x32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrizes/matrix_4x4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrizes/matrix_64x64.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/AStarPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/BFSPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/DFSPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/DijkstraPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/GreedyBestFirstPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/Heuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/PathFinder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="35tnJpT09qgQcxKWwWhPZnqI70u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TesteMatriz16x16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteMatriz32x32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteMatriz4x4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteMatriz64x64.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/danie/OneDrive/Documentos/CIÊNCIA DA COMPUTAÇÃO-USJT/4 SEMESTRE/ESTRUTURA DE DADOS E ANALISE DE ALGORITMOS/TrabalhoGrafos/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\OneDrive\Documentos\CIÊNCIA DA COMPUTAÇÃO-USJT\4 SEMESTRE\ESTRUTURA DE DADOS E ANALISE DE ALGORITMOS\TrabalhoGrafos\docs" />
+      <recent name="C:\Users\danie\OneDrive\Documentos\CIÊNCIA DA COMPUTAÇÃO-USJT\4 SEMESTRE\ESTRUTURA DE DADOS E ANALISE DE ALGORITMOS\TrabalhoGrafos\resultados" />
+      <recent name="C:\Users\danie\OneDrive\Documentos\CIÊNCIA DA COMPUTAÇÃO-USJT\4 SEMESTRE\ESTRUTURA DE DADOS E ANALISE DE ALGORITMOS\TrabalhoGrafos\matrizes" />
+      <recent name="C:\Users\danie\OneDrive\Documentos\CIÊNCIA DA COMPUTAÇÃO-USJT\4 SEMESTRE\ESTRUTURA DE DADOS E ANALISE DE ALGORITMOS\TrabalhoGrafos" />
+      <recent name="C:\Users\danie\OneDrive\Documentos\CIÊNCIA DA COMPUTAÇÃO-USJT\4 SEMESTRE\ESTRUTURA DE DADOS E ANALISE DE ALGORITMOS\TrabalhoGrafos\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesteMatriz64x64">
+    <configuration name="TesteMatriz16x16" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.unibh.edaa.graph.PathFinder" />
+      <module name="TrabalhoGrafos" />
+      <option name="PROGRAM_PARAMETERS" value="matrix_16x16.txt 0 255" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteMatriz32x32" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.unibh.edaa.graph.PathFinder" />
+      <module name="TrabalhoGrafos" />
+      <option name="PROGRAM_PARAMETERS" value="matrix_32x32.txt 0 1023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteMatriz4x4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.unibh.edaa.graph.PathFinder" />
+      <module name="TrabalhoGrafos" />
+      <option name="PROGRAM_PARAMETERS" value="matrix_4x4.txt 0 15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteMatriz64x64" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.unibh.edaa.graph.PathFinder" />
+      <module name="TrabalhoGrafos" />
+      <option name="PROGRAM_PARAMETERS" value="matrix_64x64.txt 0 4095" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TesteMatriz4x4" />
+      <item itemvalue="Application.TesteMatriz16x16" />
+      <item itemvalue="Application.TesteMatriz32x32" />
+      <item itemvalue="Application.TesteMatriz64x64" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a429f04-4902-4748-8195-1f319650149e" name="Changes" comment="" />
+      <created>1763938168000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763938168000</updated>
+    </task>
+    <servers />
+  </component>
+</project>
