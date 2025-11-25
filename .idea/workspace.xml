@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a429f04-4902-4748-8195-1f319650149e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrabalhoGrafos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/RELATORIO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrizes/matrix_16x16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrizes/matrix_32x32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrizes/matrix_4x4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrizes/matrix_64x64.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/AStarPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/BFSPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/DFSPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/DijkstraPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/GreedyBestFirstPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/Heuristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/unibh/edaa/graph/PathFinder.java" afterDir="false" />
+    <list default="true" id="9a429f04-4902-4748-8195-1f319650149e" name="Changes" comment="Projeto completo - Código, matrizes, resultados e documentação">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/RELATORIO.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/RELATORIO.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DaniTmelo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DaniTmelo/trabalho-grafos.git",
+    "accountId": "0419422a-83d8-4cfd-93db-5575de847b1c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -120,6 +115,19 @@
       <option name="presentableId" value="Default" />
       <updated>1763938168000</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto completo - Código, matrizes, resultados e documentação">
+      <option name="closed" value="true" />
+      <created>1764046265354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764046265354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto completo - Código, matrizes, resultados e documentação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto completo - Código, matrizes, resultados e documentação" />
   </component>
 </project>

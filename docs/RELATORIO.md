@@ -314,17 +314,5 @@ Este trabalho demonstrou:
 
 ---
 
-## 6. REFERÊNCIAS
-
-CORMEN, Thomas H. et al. **Introduction to Algorithms**. 3rd ed. Cambridge: MIT Press, 2009.
-
-HART, Peter E.; NILSSON, Nils J.; RAPHAEL, Bertram. A Formal Basis for the Heuristic Determination of Minimum Cost Paths. **IEEE Transactions on Systems Science and Cybernetics**, v. 4, n. 2, p. 100-107, 1968.
-
-RUSSELL, Stuart; NORVIG, Peter. **Artificial Intelligence: A Modern Approach**. 4th ed. Hoboken: Pearson, 2020.
-
-Material didático da disciplina Estrutura de Dados e Análise de Algoritmos - Prof. Lucas Goulart Silva e Otacilio José Pereira, grupo anima.
-
----
-
 **Fim do Relatório**
 ---
